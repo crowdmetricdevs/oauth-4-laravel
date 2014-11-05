@@ -115,6 +115,7 @@ class OAuth
      * @param  string $service
      * @param  string $url
      * @param  array  $scope
+     * @param  string $storage_path
      * @return \OAuth\Common\Service\AbstractService
      */
     public function consumer( $service, $url = null, $scope = null, $storage_path = null )
