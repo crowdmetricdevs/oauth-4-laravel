@@ -13,11 +13,11 @@
         }
     ],
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3",
+        "lusitanian-cmdev/oauth": "dev-master"
     },
     "require-dev": {
-        "illuminate/support": "~4",
-        "lusitanian-cmdev/oauth": "dev-master"
+        "illuminate/support": "~4"
     },    
     "require-all": true,
     "autoload": {    
